@@ -1,0 +1,19 @@
+# Ignore raw data
+data/raw/
+*.zip
+*.csv
+
+# Ignore BI / large files
+*.pbix
+*.twbx
+*.hyper
+
+# Ignore DB files
+*.db
+*.sqlite
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
