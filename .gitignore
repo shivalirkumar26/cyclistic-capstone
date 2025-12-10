@@ -17,3 +17,4 @@ data/raw/
 Thumbs.db
 .vscode/
 .idea/*.rtf
+!data/processed/*.csv
