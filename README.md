@@ -18,10 +18,10 @@ What rider behaviors indicate strong potential for membership conversion?
 ⸻
 
 Key Questions
-•	When do members vs casual riders use the service most?
-•	How do ride lengths differ between the two groups?
-•	Which stations show high casual rider engagement?
-•	What usage patterns signal strong conversion opportunities?
+1. When do members vs casual riders use the service most?
+2. How do ride lengths differ between the two groups?
+3. Which stations show high casual rider engagement?
+4. What usage patterns signal strong conversion opportunities?
 
 ⸻
 
