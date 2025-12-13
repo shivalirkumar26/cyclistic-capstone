@@ -49,14 +49,12 @@ Tools Used
 
 Dashboard
 
-🔗 Live Dashboard (Tableau Public)
+🔗 Live Dashboard (Tableau Public):
 https://public.tableau.com/views/CyclisticRiderBehaviorMembershipOpportunity2023/CyclisticUsageMemberConversionInsights2023
 
-📄 Dashboard PDF
-dashboard/dashboard.pdf
+📄 Dashboard PDF: dashboard/dashboard.pdf
 
-🖼️ Preview Image
-dashboard/dashboard.png
+🖼️ Preview Image: dashboard/dashboard.png
 
 ⸻
 
@@ -84,8 +82,7 @@ Notes
 
 About Me
 
-Shivali Ravindra Kumar
-Business Intelligence Analyst
+Shivali Ravindra Kumar - Business Intelligence Analyst
 
 Portfolio: https://shivaliravindrakumar.netlify.app
-LinkedIn: 
+LinkedIn: www.linkedin.com/in/shivali-r-kumar
